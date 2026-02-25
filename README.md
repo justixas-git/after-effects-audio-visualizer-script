@@ -1,0 +1,1 @@
+# after-effects-audio-visualizer-script
