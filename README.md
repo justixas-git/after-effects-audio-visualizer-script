@@ -1,5 +1,8 @@
 # After Effects Audio Visualizer Script
 
+This project is shared as a **tooling and automation example**, highlighting procedural generation
+and scripting for creative software rather than a finished end-user product.
+
 A JavaScript (ExtendScript) tool for Adobe After Effects that automatically generates
 a complete audio-reactive visualisation setup from a music file.
 
@@ -23,6 +26,7 @@ audio-driven visuals.
 - Procedural content generation
 - Automation of complex, multi-step workflows
 - Practical JavaScript usage outside web contexts
+- Systems thinking applied to creative tooling
 
 ## Usage
 Run the script via:
